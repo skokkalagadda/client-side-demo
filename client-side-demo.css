@@ -1,0 +1,20 @@
+.colored {
+    color: red;
+}
+
+/*
+All elements of a particular tag type
+span {
+    color: red;
+}
+
+All elements with a class name
+.colored {
+    color: red;
+}
+
+A single element specified by an identifier (id)
+#my-first-div {
+    color:red;
+}
+*/
