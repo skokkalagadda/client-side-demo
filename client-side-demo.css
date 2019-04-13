@@ -1,6 +1,9 @@
 .colored {
     color: red;
 }
+h1{
+    background-color: greenyellow;
+}
 
 /*
 All elements of a particular tag type
