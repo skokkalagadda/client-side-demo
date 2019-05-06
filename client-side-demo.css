@@ -4,7 +4,18 @@
 h1{
     background-color: greenyellow;
 }
-
+.orangeback{
+    background-color: orange;
+}
+.fuchsiaback{
+    background-color:fuchsia;
+}
+.blueback{
+    background-color: blue;
+}
+.tealback{
+    background-color:teal;
+}
 /*
 All elements of a particular tag type
 span {
